@@ -1,0 +1,27 @@
+{
+  "name": "graphql-schema-hash",
+  "version": "1.0.0",
+  "description": "Generate GraphQL schema hashes like Apollo Engine",
+  "main": "src/index.js",
+  "keywords": [
+    "graphql",
+    "apollo"
+  ],
+  "author": "Joel Turkel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/salsify/graphql-schema-hash.git"
+  },
+  "engines": {
+    "node": ">= 8.6"
+  },
+  "dependencies": {
+    "graphql": "^14.2.1",
+    "fast-json-stable-stringify": "^2.0.0"
+  },
+  "devDependencies": {
+  },
+  "resolutions": {
+  }
+}
